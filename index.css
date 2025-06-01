@@ -1,0 +1,4 @@
+/* This file is intentionally left empty. */
+/* Its presence is to prevent a 404 error when a local development server */
+/* or browser attempts to request /index.css. */
+/* All styling is handled by Tailwind CSS via CDN and utility classes in the HTML/JSX. */

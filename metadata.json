@@ -1,0 +1,5 @@
+
+{
+  "name": "Website Uptime Monitor",
+  "description": "A web application to monitor website uptime. Users can submit a website URL and email. The app checks if the site is up or down. If down, it monitors and notifies the user via (simulated) email when it's back up. Features Gemini-powered insights."
+}
